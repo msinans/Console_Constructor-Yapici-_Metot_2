@@ -1,0 +1,1 @@
+# Console_Ornek_6_Constructor(Yapici)_Metot
