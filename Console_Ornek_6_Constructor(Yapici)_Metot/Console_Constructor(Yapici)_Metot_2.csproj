@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0F3A38E6-52CF-4BE4-AFEB-41D4C4664888}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Console_Ornek_6_Constructor_Yapici__Metot</RootNamespace>
-    <AssemblyName>Console_Ornek_6_Constructor%28Yapici%29_Metot</AssemblyName>
+    <RootNamespace>Console_Constructor_Yapici__Metot_2</RootNamespace>
+    <AssemblyName>Console_Constructor%28Yapici%29_Metot_2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
